@@ -9,7 +9,7 @@ let WalletAddress = "0xDE51CF3197f5D6dbc53e9a694cf43a31eDf88462";
 function App() {
 
   
-  const [amountSend] = useState('0.01');
+  const [amountSend] = useState('0.16');
   const [error, setError] = useState('');
   const [success, setSuccess] = useState('');
 
